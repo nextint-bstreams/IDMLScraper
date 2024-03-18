@@ -14,8 +14,8 @@ ESECUZIONE
 
 
 settings.cfg
-In questo file viene specificato il path dove sono state salvate le pagine HTML.
-Il valore iniziale è "/volantino" che significa che le pagine html si trovano sotto le seguenti url relative:
+In questo file viene specificato il path relativo in cui verranno salvate le pagine HTML per il deploy sul web server.
+La proprietà "baseurl" ha valore iniziale "/volantino" che significa che le pagine html saranno raggiungibili sotto i seguenti url relativi:
 /volantino/2024A25009/A2_2024_PANORAMA-1.html
 /volantino/2024A25009/A2_2024_PANORAMA-2.html
 .....
